@@ -8,9 +8,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
-Your answer: JSX is the mixture of HTML and Javascript. It allows for HTML to be written in Javascript. One of the differences is that JSX must have react components. Components must be imported and exported. Snytax difference is HTML does not allow for functions to be written.
+Your answer: JSX is the mixture of HTML and Javascript. It allows for HTML to be written in Javascript. One of the differences between the two is JSX uses the PascalCase naming convention.
 
-Researched answer:
+Researched answer: JSX is a markdown that acts like HTML. In other words, it's a more like a hybrid scripting languge that merges Javascript and HTML. A difference between the two is that JSX uses PascalCase naming convention for its classes, as HTML uses a camelcase naming convention. The reason for this is becuase the class already an occupied word in Javascript.
 
 1. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
@@ -20,7 +20,7 @@ Researched answer: Weh you yarn add jest that will create a new directory called
 
 3. What is a React component?
 
-Your answer:Reusable snippets of code that are independent.
+Your answer: Reusable snippets of code that are independent.
 
 Researched answer: When wanting to reuse certain code, it is stored as a function. That function is called when it is time to use that code.
 
